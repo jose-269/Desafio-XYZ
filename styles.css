@@ -1,0 +1,25 @@
+.inpt {
+    width: 10rem;
+    
+}
+
+.container {
+    text-align: center;
+}
+
+.form-group {
+    text-align: center;
+    display: inline-block;
+}
+
+.pad {
+    padding-right: 5.5625rem;
+}
+
+.pad-2 {
+padding-right: 3.125rem;
+}
+
+h2 {
+    font-size: 1.25rem;
+}
